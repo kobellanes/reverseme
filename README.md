@@ -1,0 +1,1 @@
+This is a simple catch the flag game, you can try to clone it and decipher it on your own. It's easy but yet challenging. By having to decode this, you'll have an idea on how catch the flag competitions work.
